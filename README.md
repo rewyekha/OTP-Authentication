@@ -15,10 +15,10 @@ pip install -r requirements.txt
 ```
 
 ## Main form
-![anaform](https://github.com/rewyekha/OTP-Authentication/blob/e2d0b304e6e450a9d47f0ac5ca90bd8a0981ec53/Login%20page.png)
+![mainform](https://github.com/rewyekha/OTP-Authentication/blob/e2d0b304e6e450a9d47f0ac5ca90bd8a0981ec53/Login%20page.png)
 
 ## Sending mail
 ![email](https://github.com/rewyekha/OTP-Authentication/blob/e2d0b304e6e450a9d47f0ac5ca90bd8a0981ec53/OTP%20code.png)
 
 ## Login with otp
-![otp-ekran](https://github.com/rewyekha/OTP-Authentication/blob/e2d0b304e6e450a9d47f0ac5ca90bd8a0981ec53/OTP-Login.png)
+![otp-login](https://github.com/rewyekha/OTP-Authentication/blob/0e3c50ee7f229bbd4dc77e51617d87e4f8851b31/OTP-Login.png)
